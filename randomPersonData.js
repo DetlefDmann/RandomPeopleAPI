@@ -3802,3 +3802,4 @@ const randomPersonData = [
 ];
 
 console.log(randomPersonData.length);
+export {randomPersonData};
